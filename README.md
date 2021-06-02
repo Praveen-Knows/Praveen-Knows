@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Praveen Kumar Singh @Praveen-Knows
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning MERN Stack
+- 💞️ I’m looking to collaborate on related projects
+- 📫 EMAIL ID: praveen8ksi@gmail.com
